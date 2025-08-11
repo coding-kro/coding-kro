@@ -36,7 +36,7 @@
 ## 📌 Featured Projects
 | Project Name | Live Demo | Repository |
 |--------------|-----------|------------|
-| **Parallax Website** | [🌐 View Live](https://coding-kro.github.io/parallax-website/) | [📂 Code](https://github.com/coding-kro/parallax-website) |
+| **Parallax Website** | [🌐 View Live](https://easy-parallax-website.netlify.app/) | [📂 Code](https://github.com/coding-kro/parallax website) |
 | **VR Photography Website** | [🌐 View Live](https://coding-kro.github.io/vr-photography/) | [📂 Code](https://github.com/coding-kro/vr-photography) |
 | **Password Generator** | [🌐 View Live](https://coding-kro.github.io/password-generator/) | [📂 Code](https://github.com/coding-kro/password-generator) |
 
